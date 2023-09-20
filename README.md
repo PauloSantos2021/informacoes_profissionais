@@ -22,8 +22,7 @@ Tenho uma ampla experiência em desenvolvimento de software e liderança de equi
 
 ### 🌐 Redes Sociais e Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/seu-perfil)
-- Twitter: [@SeuNomeNoTwitter](https://twitter.com/seu-nome-no-twitter)
+- LinkedIn: (https://www.linkedin.com/in/paulo-antonio-santos/)
 
 Fique à vontade para entrar em contato para discutir projetos, colaborações ou apenas para trocar ideias sobre tecnologia. Vamos criar coisas incríveis juntos! 🚀
 
